@@ -22,8 +22,8 @@
     "last_error": "direct: Not logged in · Please run /login"
   },
   "digest": {
-    "last_dispatch": "2026-10-21T22:14:50Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-10-22T15:33:21Z",
+    "last_status": "dispatched",
     "last_failed": "2026-10-21T22:15:11Z",
     "total_runs": 3,
     "total_successes": 0,
