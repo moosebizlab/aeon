@@ -11,8 +11,8 @@
     "last_dispatch": "2026-10-26T08:04:12Z"
   },
   "github-monitor": {
-    "last_dispatch": "2026-10-25T12:29:53Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-10-26T15:08:21Z",
+    "last_status": "dispatched",
     "last_failed": "2026-10-25T12:30:12Z",
     "total_runs": 7,
     "total_successes": 0,
@@ -22,8 +22,8 @@
     "last_error": "direct: Not logged in · Please run /login"
   },
   "digest": {
-    "last_dispatch": "2026-10-25T16:44:54Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-10-26T15:08:21Z",
+    "last_status": "dispatched",
     "last_failed": "2026-10-25T16:45:12Z",
     "total_runs": 7,
     "total_successes": 0,
