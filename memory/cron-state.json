@@ -1,6 +1,6 @@
 {
   "heartbeat": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-10-27T10:11:11Z",
     "total_runs": 9,
     "total_successes": 0,
@@ -8,11 +8,11 @@
     "consecutive_failures": 9,
     "success_rate": 0,
     "last_error": "direct: Not logged in · Please run /login",
-    "last_dispatch": "2026-10-27T10:10:40Z"
+    "last_dispatch": "2026-10-28T10:27:20Z"
   },
   "github-monitor": {
-    "last_dispatch": "2026-10-27T10:10:40Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-10-28T10:27:20Z",
+    "last_status": "dispatched",
     "last_failed": "2026-10-27T10:10:57Z",
     "total_runs": 9,
     "total_successes": 0,
