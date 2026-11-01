@@ -23,12 +23,12 @@
   },
   "digest": {
     "last_dispatch": "2026-11-01T16:26:58Z",
-    "last_status": "dispatched",
-    "last_failed": "2026-10-31T17:16:23Z",
-    "total_runs": 13,
+    "last_status": "failed",
+    "last_failed": "2026-11-01T16:27:14Z",
+    "total_runs": 14,
     "total_successes": 0,
-    "total_failures": 13,
-    "consecutive_failures": 13,
+    "total_failures": 14,
+    "consecutive_failures": 14,
     "success_rate": 0,
     "last_error": "direct: Not logged in · Please run /login"
   }
